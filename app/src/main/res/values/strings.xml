@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Messanger</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="allowed_send_message">Sending messages is allowed!</string>
+    <string name="not_allowed_send_message">Sending messages is not allowed!</string>
+</resources>
